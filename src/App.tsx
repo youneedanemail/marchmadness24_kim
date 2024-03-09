@@ -1,9 +1,9 @@
 // Kimberly March Madness Project 2024
 
-import React from "react";
-import "./App.css";
+import React from 'react';
+import './App.css';
 // Bring in json
-import data from "./CollegeBasketballTeams.json";
+import data from './CollegeBasketballTeams.json';
 
 // Interface - will just store the info we want from the json
 interface TeamInfo {
